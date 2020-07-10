@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949029707184",
+    "firebase_url": "https://realsportsiq.firebaseio.com",
+    "project_id": "realsportsiq",
+    "storage_bucket": "realsportsiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949029707184:android:df524772e219aaef604a75",
+        "android_client_info": {
+          "package_name": "com.temp.sportsiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949029707184-8lafvhcno5dg0c3ch1o8hnbpbohqahnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkewoWCPKu8uqVt5XpdWOJGx7bbpY-G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949029707184-8lafvhcno5dg0c3ch1o8hnbpbohqahnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
